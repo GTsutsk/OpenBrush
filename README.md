@@ -8,3 +8,19 @@ The construction plans are freely available so that users can download them, bui
 OpenBrush shows that sustainable design is also possible for everyday products - a contribution to the circular economy and the open source hardware movement.
 
 So dive in, try out and share your improvements.
+
+OpenBrush/
+├── README.md
+├── LICENSE
+├── docs/
+│   ├── build_instructions.md
+│   ├── safety_guidelines.md
+│   └── images/
+├── hardware/
+│   ├── electrical/
+│   │   └── schematics/
+│   └── mechanical/
+│       └── 3d_models/
+├── references/
+│   └── literature/
+└── CONTRIBUTING.md
